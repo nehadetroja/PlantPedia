@@ -1,4 +1,4 @@
-﻿namespace PlantPedia.Model
+﻿namespace PlantPedia.Business.Models
 {
     public class OrderModel
     {
