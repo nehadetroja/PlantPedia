@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.Net Core\\PlantPedia\\PlantPedia\\PlantPedia.csproj": {}
+    "E:\\.Net Core Project\\PlantPedia\\PlantPedia\\PlantPedia.csproj": {}
   },
   "projects": {
-    "E:\\.Net Core\\PlantPedia\\PlantPedia\\PlantPedia.csproj": {
+    "E:\\.Net Core Project\\PlantPedia\\PlantPedia\\PlantPedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.Net Core\\PlantPedia\\PlantPedia\\PlantPedia.csproj",
+        "projectUniqueName": "E:\\.Net Core Project\\PlantPedia\\PlantPedia\\PlantPedia.csproj",
         "projectName": "PlantPedia",
-        "projectPath": "E:\\.Net Core\\PlantPedia\\PlantPedia\\PlantPedia.csproj",
+        "projectPath": "E:\\.Net Core Project\\PlantPedia\\PlantPedia\\PlantPedia.csproj",
         "packagesPath": "C:\\Users\\NEHA\\.nuget\\packages\\",
-        "outputPath": "E:\\.Net Core\\PlantPedia\\PlantPedia\\obj\\",
+        "outputPath": "E:\\.Net Core Project\\PlantPedia\\PlantPedia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vnNzUSVsb/IQFYEpRqMYAfLLnajWwoS4mdSb7wBcDdTXhhqLeGDhmnh3ouPrtcVJQRagvTBr/wD2KSPFOnoMvA==",
+  "dgSpecHash": "a9Py/ZQ25gcwl1s2qmypzOON3CwhHT8ViXyWp7JamtZtfj4wNxaxJTYgU5/qgkBbuCnDhoKmiBUZNx/A8TxsJQ==",
   "success": true,
-  "projectFilePath": "E:\\.Net Core\\PlantPedia\\PlantPedia.Business.Models\\PlantPedia.Business.Models.csproj",
+  "projectFilePath": "E:\\.Net Core Project\\PlantPedia\\PlantPedia.Business.Models\\PlantPedia.Business.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

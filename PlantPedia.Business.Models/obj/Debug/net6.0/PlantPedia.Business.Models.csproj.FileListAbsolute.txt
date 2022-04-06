@@ -1,0 +1,12 @@
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.csproj.AssemblyReference.cache
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.AssemblyInfoInputs.cache
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.AssemblyInfo.cs
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.csproj.CoreCompileInputs.cache
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\bin\Debug\net6.0\PlantPedia.Business.Models.deps.json
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\bin\Debug\net6.0\PlantPedia.Business.Models.dll
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\bin\Debug\net6.0\PlantPedia.Business.Models.pdb
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.dll
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\refint\PlantPedia.Business.Models.dll
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\PlantPedia.Business.Models.pdb
+E:\.Net Core Project\PlantPedia\PlantPedia.Business.Models\obj\Debug\net6.0\ref\PlantPedia.Business.Models.dll

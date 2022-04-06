@@ -2,15 +2,13 @@
 
 namespace PlantPedia.Business.Models
 {
-    public class PlantCategoryModel
+    public class PlantCategory
     {
         public Guid PlantCategoryId { get; set; }
         public DateTime DateCreated { get; set; }
-        public DateTime? DateModified { get; set; }
-
-        [MaxLength(250)]
+        public DateTime DateModified { get; set; }
         public string CategoryName { get; set; }
 
-        public ICollection<PlantModel> Plants { get; set; }
+        public ICollection<Plant> Plants { get; set; }
     }
 }
